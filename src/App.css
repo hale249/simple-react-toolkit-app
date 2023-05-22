@@ -1,0 +1,19 @@
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.p-5 {
+   padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
